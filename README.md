@@ -1,4 +1,4 @@
-# ev-m7
+# EVALUACIÓN FINAL MÓDULO 7 - VUE, VUEX, VUETIFY, FIREBASE
 
 ## Project setup
 ```
